@@ -1,71 +1,11 @@
-# Tribunal Database Project
+# Court Database Project
 
-## Overview
-This project contains the database design and implementation for a Tribunal management system. The system is designed to handle court proceedings, case management, and related administrative functions.
+This project is a comprehensive database system designed for managing court operations and legal proceedings. The system handles all aspects of case management including court cases, judge assignments, legal documentation, and administrative records while tracking case status throughout the judicial process.
 
-## Project Structure
-The project includes database schemas, documentation, and related files for managing tribunal operations and case tracking.
+The database architecture supports comprehensive case management with integrated judge and court scheduling capabilities. It includes a document management system for handling legal paperwork, administrative oversight tools, and reporting analytics to provide insights into court operations. The system ensures data integrity through proper indexing and implements robust security measures to protect sensitive legal information.
 
-## Database Design
-The system is designed to manage:
-- Court cases and proceedings
-- Judge assignments and schedules
-- Legal documentation
-- Administrative records
-- Case status tracking
+Installation requires setting up the database environment, importing the schema, configuring user permissions, and initializing base data before testing functionality. Users can register and manage cases, schedule court proceedings, file and retrieve documents, generate administrative reports, and manage system users through intuitive interfaces.
 
-## Features
-- Comprehensive case management
-- Judge and court scheduling
-- Document management system
-- Administrative oversight
-- Reporting and analytics capabilities
+Security features include data protection protocols, user authentication and authorization systems, comprehensive audit trails, and reliable backup and recovery procedures. The system requires regular maintenance including database optimization, security updates, data archiving, and performance monitoring to ensure optimal operation.
 
-## Technical Requirements
-- Database management system
-- Proper indexing for performance
-- Data integrity constraints
-- Security measures for sensitive legal data
-
-## Installation and Setup
-1. Set up the database environment
-2. Import the database schema
-3. Configure user permissions
-4. Initialize base data
-5. Test system functionality
-
-## Usage
-The system provides interfaces for:
-- Case registration and management
-- Court scheduling
-- Document filing and retrieval
-- Administrative reporting
-- User management
-
-## Security Considerations
-- Sensitive legal data protection
-- User authentication and authorization
-- Audit trail maintenance
-- Data backup and recovery procedures
-
-## Maintenance
-Regular maintenance includes:
-- Database optimization
-- Security updates
-- Data archiving
-- Performance monitoring
-
-## Documentation
-Additional documentation includes:
-- Database schema diagrams
-- User manuals
-- API documentation
-- System administration guides
-
-👉 [Read the full PDF](Document.pdf)
-
-## Support
-For technical support and questions regarding the tribunal database system, please refer to the project documentation or contact the development team.
-
-## License
-This project is developed for academic/educational purposes as part of database coursework.
+Complete documentation is available in the [project documentation](Document.pdf) which includes database schema diagrams, user manuals, API documentation, and system administration guides. This project was developed for academic purposes as part of database coursework.
