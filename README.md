@@ -62,6 +62,8 @@ Additional documentation includes:
 - API documentation
 - System administration guides
 
+👉 [Read the full PDF](Document.pdf)
+
 ## Support
 For technical support and questions regarding the tribunal database system, please refer to the project documentation or contact the development team.
 
